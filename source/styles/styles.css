@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(89deg, #ff0000 0%, #c6ae10 100%);;
+}
+
+.slide-text {
+    align-items: center;
+    font-size: xx-large;
+    background-color: rgb(0, 0, 0);
+}
+
+.carousel-inner {
+    
+    color: whitesmoke;
+}
+
+.navbar-brand {
+    color: whitesmoke;
+}
